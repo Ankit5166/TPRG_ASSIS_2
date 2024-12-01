@@ -1,6 +1,7 @@
 #ANKITKUMAR CHAUDHARY
 #100887553
 #TPRG 2
+#THIS THE SERVER FILE WHERE I ADD 4 NEW ARGUMENT WHICH SHOW VOLTAGE, FREQUENCY, RAM VOLTAGE AND CONFIGRATION OF PI
 #This server runs on Pi, sends Pi's your 4 arguments from the vcgencmds, sent as Json object.
 
 # details of the Pi's vcgencmds - https://www.tomshardware.com/how-to/raspberry-pi-benchmark-vcgencmd
